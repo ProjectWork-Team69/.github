@@ -1,5 +1,8 @@
 # ProjectWork-Team69 🚀
-### AXI4 Compliant RISC-V based MCU
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=AXI4+Compliant+RISC-V+MCU;Team+69+%7C+BMSCE+ECE;Building+the+Future+of+IoT)](https://git.io/typing-svg)
+
 
 Welcome to the official repository of **Team 69** for the Major Project Work at **B.M.S College of Engineering**. This project focuses on developing a modern, high-performance AXI4 compliant RISC-V based Microcontroller Unit (MCU) designed for IoT applications and edge computing.
 
@@ -174,5 +177,9 @@ This project is developed for academic purposes at B.M.S College of Engineering 
 *Department of Electronics and Communication Engineering*
 
 [![BMSCE](https://img.shields.io/badge/BMSCE-blue?style=for-the-badge)](https://bmsce.ac.in)
+
+[![Profile views](https://komarev.com/ghpvc/?username=ProjectWork-Team69&style=for-the-badge&color=brightgreen)](https://github.com/ProjectWork-Team69)
+[![GitHub followers](https://img.shields.io/github/followers/ProjectWork-Team69?style=for-the-badge&logo=github)](https://github.com/ProjectWork-Team69)
+[![GitHub User's stars](https://img.shields.io/github/stars/ProjectWork-Team69?style=for-the-badge&logo=github)](https://github.com/ProjectWork-Team69)
 
 </div>
